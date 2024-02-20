@@ -25,9 +25,9 @@ In addition to my work as a developer, i am also a full time teacher at the [Bro
 
 
 #### Proficiencies 
-- HTML/CSS, SCSS, PostCSS, Bootstrap, Tailwind, MaterialUI
+- HTML/CSS, SCSS, PostCSS, Bootstrap, Tailwind, MaterialUI, ChakraUI
 - JavaScript, React, Vue.js, Next.js, Nuxt.js
-- Python, GoLang, Node.js
+- Python, Node.js, Rust
 - SQL, MongoDB, Prisma, NoSQL
 - Google Cloud, AWS, Docker, Kubernetes, Linux
 - Jira, GitHub, Trello
