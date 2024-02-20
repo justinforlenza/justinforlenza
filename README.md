@@ -14,8 +14,8 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/justinforlenza" style="float: right">
-    <img src="https://api.daily.dev/devcards/v2/5fbeb3565c544378b193a71b9cbc5fbe.png?r=2id&type=default" width="356" alt="Justin Forlenza's Dev Card"/>
+  <a href="https://app.daily.dev/justinforlenza" >
+    <img src="https://api.daily.dev/devcards/v2/5fbeb3565c544378b193a71b9cbc5fbe.png?r=2id&type=default" width="356" alt="Justin Forlenza's Dev Card" align="right"/>
   </a>
 </div>
 
