@@ -14,8 +14,8 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/justinforlenza" target="_blank">
-    <img src="https://github.com/justinforlenza/justinforlenza/blob/main/devcard.svg" width="256" align="right" alt="Justin Forlenza's Dev Card"/>
+  <a href="https://app.daily.dev/justinforlenza">
+    <img src="https://api.daily.dev/devcards/v2/5fbeb3565c544378b193a71b9cbc5fbe.png?r=2id&type=default" width="356" alt="Justin Forlenza's Dev Card"/>
   </a>
 </div>
 
